@@ -40,6 +40,26 @@
 
 ---
 
+## 💼 Hire me
+
+> **Available for freelance & contract work.** Independent, senior, and battle-tested.
+
+| | Service | What you get |
+|---|---|---|
+| 🔗 | **Smart Contract Audits** | Solidity & Move security reviews — DeFi, protocols, bridges. Manual deep-dive, not just tooling. |
+| 🎯 | **Penetration Testing** | Web app, network & Active Directory engagements. OSCP / OSWE / CRTP, red-team mindset. |
+| 🤖 | **Security Tooling** | Custom AI-assisted security automation, audit tooling, and agentic workflows. |
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ataberkyavuzer">
+<img src="https://img.shields.io/badge/%F0%9F%93%A9%20Get%20in%20touch%20on%20LinkedIn-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=2CE5C0"/>
+</a>
+
+</div>
+
+---
+
 ## 🐱 Featured — gossipcat
 
 > **A multi-agent code-review orchestrator that filters LLM hallucinations in security analysis.**
