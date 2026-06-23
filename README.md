@@ -73,9 +73,9 @@ Most "AI security review" tools confidently invent vulnerabilities. gossipcat do
 Effectively **in-context reinforcement learning at the prompt layer** — no fine-tuning, no weights touched. The "policy update" is a markdown file.
 
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-1ABC9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Node.js-1ABC9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MCP-1ABC9C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-1ABC9C?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Node.js-1ABC9C?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/MCP-1ABC9C?style=flat-square&labelColor=0D1117&logo=anthropic&logoColor=2CE5C0"/>
 <img src="https://img.shields.io/badge/Multi--Agent-2CE5C0?style=flat-square&labelColor=0D1117"/>
 </div>
 
@@ -102,11 +102,11 @@ Effectively **in-context reinforcement learning at the prompt layer** — no fin
 
 **Build & AI**
 
-<img src="https://img.shields.io/badge/TypeScript-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Node.js-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Python-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Claude-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Cursor-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Node.js-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=nodedotjs&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Python-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Claude-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Cursor-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=cursor&logoColor=2CE5C0"/>
 
 </div>
 
