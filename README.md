@@ -129,7 +129,11 @@ Effectively **in-context reinforcement learning at the prompt layer** — no fin
 <!-- ====== CONTRIBUTION SNAKE (needs the GitHub Action below) ====== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ataberk-xyz/ataberk-xyz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ataberk-xyz/ataberk-xyz/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ataberk-xyz/ataberk-xyz/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ataberk-xyz/ataberk-xyz/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
