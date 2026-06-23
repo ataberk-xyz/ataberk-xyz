@@ -5,7 +5,7 @@
 
 <!-- ====== ANIMATED TYPING HEADER ====== -->
 <a href="https://ataberk-xyz.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=620&lines=Smart+Contract+Auditor+%26+Offensive+Security+Engineer;7%2B+years+across+Web3+%26+traditional+security;OSCP+%C2%B7+OSWE+%C2%B7+CRTP;Breaking+things%2C+then+building+tools+that+don't+break" alt="typing header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1ABC9C&center=true&vCenter=true&width=800&lines=Smart+Contract+Auditor+%26+Offensive+Security+Engineer;7%2B+years+across+Web3+%26+traditional+security;OSCP+%C2%B7+OSWE+%C2%B7+CRTP;Breaking+things%2C+then+building+tools+that+don't+break" alt="typing header"/>
 </a>
 
 <br/>
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/OSCP-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=offensive-security&logoColor=2CE5C0"/>
 <img src="https://img.shields.io/badge/OSWE-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=offensive-security&logoColor=2CE5C0"/>
 <img src="https://img.shields.io/badge/CRTP-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=2CE5C0"/>
-<img src="https://img.shields.io/badge/CVE--2019--1068-2CE5C0?style=for-the-badge&labelColor=0D1117&logo=common-workflow-language&logoColor=1ABC9C"/>
 
 <br/>
 
@@ -35,7 +34,7 @@
 
 - 🛡️  I break things for a living, then build tools so they break less.
 - 🔗  Deep in **Solidity** & **Move** audits; roots in red-team / AD attack paths.
-- 🏆  **CVE-2019-1068** (MS SQL Server) · **T-Mobile** & **Mail.ru** Halls of Fame · **HackingWars CTF #1**.
+- 🏆  **T-Mobile** & **Mail.ru** Halls of Fame · **HackingWars CTF #1** winner.
 - 🤖  Building with **Claude Code** & **Cursor** — turning agentic AI into real security leverage.
 - 📨  Past member of **CanYouPwn.me**.
 
@@ -103,10 +102,6 @@ Effectively **in-context reinforcement learning at the prompt layer** — no fin
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataberk-xyz&hide_border=true&background=0D1117&stroke=1ABC9C&ring=2CE5C0&fire=2CE5C0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1ABC9C&sideLabels=c9d1d9&dates=8b949e"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ataberk-xyz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"/>
 
 </div>
 
