@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:115E52,100:1ABC9C&height=200&section=header&text=Ataberk%20Yavuzer&fontColor=2CE5C0&fontSize=48&fontAlignY=38&desc=offensive%20security%20%C2%B7%20smart%20contracts%20%C2%B7%20AI%20tooling&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:115E52,100:1ABC9C&height=200&section=header&text=Ataberk&fontColor=2CE5C0&fontSize=48&fontAlignY=38&desc=offensive%20security%20%C2%B7%20smart%20contracts%20%C2%B7%20AI%20tooling&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- ====== ANIMATED TYPING HEADER ====== -->
 <a href="https://ataberk-xyz.github.io">
@@ -13,7 +13,7 @@
 <!-- ====== CERT / RECOGNITION BADGES ====== -->
 <img src="https://img.shields.io/badge/OSCP-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=offensive-security&logoColor=2CE5C0"/>
 <img src="https://img.shields.io/badge/OSWE-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=offensive-security&logoColor=2CE5C0"/>
-<img src="https://img.shields.io/badge/CRTP-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/CRTP-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
 
 <br/>
 
@@ -93,12 +93,13 @@ Effectively **in-context reinforcement learning at the prompt layer** — no fin
 <img src="https://img.shields.io/badge/Foundry-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=forge&logoColor=2CE5C0"/>
 <img src="https://img.shields.io/badge/Hardhat-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=ethereum&logoColor=2CE5C0"/>
 
-**Offensive Security**
+**Security Expertise**
 
-<img src="https://img.shields.io/badge/Burp_Suite-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=burpsuite&logoColor=2CE5C0"/>
-<img src="https://img.shields.io/badge/Metasploit-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=metasploit&logoColor=2CE5C0"/>
-<img src="https://img.shields.io/badge/Kali_Linux-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=kalilinux&logoColor=2CE5C0"/>
-<img src="https://img.shields.io/badge/Active_Directory-1ABC9C?style=for-the-badge&labelColor=0D1117&logo=windows&logoColor=2CE5C0"/>
+<img src="https://img.shields.io/badge/Web_Application_Security-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Internal_%26_External_Pentest-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Network_Penetration_Testing-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Windows_Active_Directory-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Mobile_Application_Security-1ABC9C?style=for-the-badge&labelColor=0D1117"/>
 
 **Build & AI**
 
@@ -116,7 +117,6 @@ Effectively **in-context reinforcement learning at the prompt layer** — no fin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ataberk-xyz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1ABC9C&icon_color=2CE5C0&text_color=c9d1d9&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataberk-xyz&layout=compact&langs_count=8&hide_border=true&title_color=1ABC9C&text_color=c9d1d9&bg_color=0D1117"/>
 
 <br/>
