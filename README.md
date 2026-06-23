@@ -23,7 +23,7 @@
 
 ---
 
-## `whoami`
+## 🧑‍💻 `whoami`
 
 ```
 > Offensive security engineer & smart contract auditor — 7+ years.
