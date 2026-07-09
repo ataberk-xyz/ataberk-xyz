@@ -3,7 +3,7 @@
 **Smart Contract Auditor & Offensive Security Engineer** — 7+ years across Web3 and traditional security.
 
 Pentesting (web · network · Active Directory) → blockchain security (Solidity · Move).
-Ex-Principal Smart Contract Auditor @ Hacken · Lead Offensive Security Engineer @ Halborn.
+Ex-Principal Smart Contract Auditor @ Hacken · Ex-Lead Offensive Security Engineer @ Halborn.
 I break things, then build tools so they break less.
 
 `OSCP` · `OSWE` · `CRTP`
