@@ -6,7 +6,7 @@ Pentesting (web · network · Active Directory) → blockchain security (Solidit
 Ex-Principal Smart Contract Auditor @ Hacken · Ex-Lead Offensive Security Engineer @ Halborn.
 I break things, then build tools so they break less.
 
-`OSCP` · `OSWE` · `CRTP` · `C-AI/ML PENTESTER`
+`OSCP` · `OSWE` · `CRTP` · `C-AI/MLPen`
 
 ---
 
