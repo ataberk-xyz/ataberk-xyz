@@ -38,7 +38,7 @@ Vulnerabilities I found and responsibly disclosed:
 
 | Package | Severity | Advisory |
 |---|---|---|
-| [install-artifact-from-github](https://github.com/uhop/install-artifact-from-github/network/dependents?package_id=UGFja2FnZS0xMzIyODE2OTA1) | High (7.5) | [GHSA-88q3-gch3-5396](https://github.com/uhop/install-artifact-from-github/security/advisories/GHSA-88q3-gch3-5396) — install-time RCE (CWE-494) |
+| [install-artifact-from-github](https://github.com/uhop/install-artifact-from-github/network/dependents?package_id=UGFja2FnZS0xMzIyODE2OTA1) | High (7.5) | [CVE-2026-73864](https://github.com/uhop/install-artifact-from-github/security/advisories/GHSA-88q3-gch3-5396) — install-time RCE (CWE-494) |
 | [stream-json](https://github.com/uhop/stream-json/network/dependents?package_id=UGFja2FnZS0xNjE5NzY5Ng%3D%3D) | Moderate (6.2) | [CVE-2026-71429](https://github.com/uhop/stream-json/security/advisories/GHSA-528h-pc64-c93x) — event-loop DoS (CWE-407) |
 | [node-re2](https://github.com/uhop/node-re2/network/dependents?package_id=UGFja2FnZS0xNDExNjMxNQ%3D%3D) | Moderate (6.2) | [CVE-2026-68499](https://github.com/uhop/node-re2/security/advisories/GHSA-6hxr-mr5r-9836) — infinite loop / memory DoS (CWE-835) |
 | [node-re2](https://github.com/uhop/node-re2/network/dependents?package_id=UGFja2FnZS0xNDExNjMxNQ%3D%3D) | Moderate (5.7) | [CVE-2026-67550](https://github.com/uhop/node-re2/security/advisories/GHSA-ff84-5f28-78qj) — OOB read / crash (CWE-125) |
