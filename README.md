@@ -26,10 +26,6 @@ A multi-agent code-review orchestrator that filters LLM hallucinations. Every fi
 Verified findings and caught hallucinations become grounded reward signals that update per-agent
 competency scores. In-context reinforcement learning at the prompt layer — no weights touched.
 
-**[Gamebrew](https://github.com/ataberk-xyz/Gamebrew)** · `C#` `Unity 6` `MCP`
-A self-hosted bridge that hands your running Unity game to an AI agent — walk the player, orbit a prop to
-inspect it, capture the view, read live scene state, all over one loopback MCP port. No cloud, no SDK lock-in.
-
 ---
 
 ## Security advisories
