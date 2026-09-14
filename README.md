@@ -40,6 +40,7 @@ Vulnerabilities I found and responsibly disclosed:
 | [node-re2](https://github.com/uhop/node-re2/network/dependents?package_id=UGFja2FnZS0xNDExNjMxNQ%3D%3D) | Moderate (5.7) | [CVE-2026-67550](https://github.com/uhop/node-re2/security/advisories/GHSA-ff84-5f28-78qj) — OOB read / crash (CWE-125) |
 | [node-re2](https://github.com/uhop/node-re2/network/dependents?package_id=UGFja2FnZS0xNDExNjMxNQ%3D%3D) | Moderate (6.2) | [CVE-2026-71430](https://github.com/uhop/node-re2/security/advisories/GHSA-8hcv-x26h-mcgp) — process abort DoS (CWE-617) |
 | [Kentico CMS](https://www.kentico.com) | Medium (5.4) | [CVE-2019-19493](https://nvd.nist.gov/vuln/detail/CVE-2019-19493) — stored XSS (CWE-434) |
+| [Apple macOS](https://support.apple.com/en-us/149035) (`cd9660` kernel driver) | Kernel Crash | [CVE-2026-84567](https://support.apple.com/en-us/149035) — kernel panic via crafted disk image (CWE-191, integer underflow) |
 
 ---
 
