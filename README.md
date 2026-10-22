@@ -35,7 +35,7 @@ Vulnerabilities I found and responsibly disclosed:
 | Package | Severity | Advisory |
 |---|---|---|
 | [Kata Containers](https://github.com/kata-containers/kata-containers) (`dragonball` VMM) | Medium (6.4) | [GHSA-ppr3-83x7-g97w](https://github.com/kata-containers/kata-containers/security/advisories/GHSA-ppr3-83x7-g97w) — guest-to-host escape via OOB write in virtio drivers (CWE-787) |
-| [Apple macOS](https://support.apple.com/en-us/149035) (`cd9660` kernel driver) | Kernel Crash | [CVE-2026-84567](https://support.apple.com/en-us/149035) — kernel panic via crafted disk image (CWE-191, integer underflow) |
+| [Apple macOS](https://support.apple.com/en-us/149035) (`cd9660` kernel driver) | Medium (5.5) | [CVE-2026-84567](https://nvd.nist.gov/vuln/detail/CVE-2026-84567) — kernel panic via crafted disk image (CWE-191, integer underflow) |
 | [install-artifact-from-github](https://github.com/uhop/install-artifact-from-github/network/dependents?package_id=UGFja2FnZS0xMzIyODE2OTA1) | High (7.5) | [CVE-2026-73864](https://github.com/uhop/install-artifact-from-github/security/advisories/GHSA-88q3-gch3-5396) — install-time RCE (CWE-494) |
 | [stream-json](https://github.com/uhop/stream-json/network/dependents?package_id=UGFja2FnZS0xNjE5NzY5Ng%3D%3D) | Moderate (6.2) | [CVE-2026-71429](https://github.com/uhop/stream-json/security/advisories/GHSA-528h-pc64-c93x) — event-loop DoS (CWE-407) |
 | [node-re2](https://github.com/uhop/node-re2/network/dependents?package_id=UGFja2FnZS0xNDExNjMxNQ%3D%3D) | Moderate (6.2) | [CVE-2026-68499](https://github.com/uhop/node-re2/security/advisories/GHSA-6hxr-mr5r-9836) — infinite loop / memory DoS (CWE-835) |
